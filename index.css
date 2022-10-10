@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url(ww.jpg);
+}
+
+p{
+    background-color: aqua;
+    color: bisque;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blueviolet;
+    color: black;
+}
+:hover a{
+    color: rgb(19, 228, 47);
+}
+.inform li{
+display: inline-flex;
+margin-right: 20px;
+padding-left: 20px;
+}
+.family li{
+    margin-right: 60px;
+    display: inline-flex;
+    padding-left: 60px
+}
+:hover li{
+    color: rgb(219, 15, 15);
+}
+
